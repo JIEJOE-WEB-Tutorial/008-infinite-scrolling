@@ -14,6 +14,6 @@
 
 ## **Notice⚠️**
 - 该效果因为涉及到直接控制DOM节点，所以滑动起来会有点卡
-- 上述问题的具体解决方案可以使用canvas来代替DOM，详细请参考[视频](https://www.bilibili.com/video/BV11D421T7AV)
+- 上述问题的具体解决方案可以使用canvas来代替DOM，详细请参考[链接](https://github.com/JIEJOE-WEB-Tutorial/008-02-infinite-scrolling-canvas)
 
 
